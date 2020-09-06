@@ -36,7 +36,7 @@ How to Use the assets.
 
 Although many uses of Flutter Mumbai's assets are governed by more specific rules, which appear in the examples below, the following basic guidelines apply to almost any use of Flutter Mumbai's assets.
 
-The font to be used while mentioning Flutter Mumbai and its assets is [Google Sans](https://github.com/FlutterMumbai/FlutterMumbai_Assets/tree/master/Fonts)
+The font to be used while mentioning Flutter Mumbai and its assets is `Google Sans <https://github.com/FlutterMumbai/FlutterMumbai_Assets/tree/master/Fonts>`_
 The main logo should only be modified with the approval of the Flutter Mumbai team.
 Always use any trademark as an adjective only, with a capitalized "F" and capitalized "M". For instance, it is correct to refer to the community as "Flutter Mumbai" (adjective) but not flutter mumbai   (all lowercase), flutter Mumbai  (lowercase "F"), Flutter mumbai (lowercase "M"), or "the Flutter Mumbai" (noun). Don't use the trademark as a verb ("Flutter Mumbai your community today!").
 
